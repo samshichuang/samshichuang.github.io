@@ -8,32 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Chuang Shi received his Bachelor's degree in Computer and Information Technology from Beijing Jiaotong University, Beijing, China in 2005, Master's degree in Precision Instrument from Tsinghua University, Beijing, China in 2008 and Ph.D. degree in Electrical and Electronic Engineering from Nanyang Technological University, Singapore in 2013. He was a Postdoctoral Researcher at Nanyang Technological University, Singapore, University of Electro-Communications, Tokyo, Japan and Kansai University, Osaka, Japan. He is currently an Associate Professor at the University of Electronic Science and Technology of China, Chengdu, China. He served as an associate editor for the IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences from 2017 to 2021 and was a distinguished lecturer of the Asia Pacific Signal and Information Processing Association (APSIPA) in 2018. He is interested in developing and applying signal processing and machine learning approaches for the manipulation of acoustic waves. He has published more than 80 research papers on the topics of active noise control, parametric array loudspeaker, and machine hearing. He is also an experienced bilingual lecturer on the topics of Signals and Systems, Acoustic Signal Processing, Intelligent Acoustic Systems, and Adaptive Filtering and Beamforming.
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+About me
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Dr. Chuang Shi received his Bachelor's degree in [Computer and Information Technology](http://en.scit.bjtu.edu.cn/) from [Beijing Jiaotong University](http://en.njtu.edu.cn/), Beijing, China in 2005, Master's degree in [Precision Instrument](https://www.tsinghua.edu.cn/dpien/) from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm), Beijing, China in 2008 and Ph.D. degree in [Electrical and Electronic Engineering](https://www.ntu.edu.sg/eee/) from [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore in 2013. He was a Postdoctoral Researcher at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, [University of Electro-Communications](https://www.uec.ac.jp/eng/), Tokyo, Japan and [Kansai University](https://www.kansai-u.ac.jp/English/), Osaka, Japan. He is currently an Associate Professor at the [University of Electronic Science and Technology of China](https://en.uestc.edu.cn), Chengdu, China. He served as an associate editor for the IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences from 2017 to 2021 and was a distinguished lecturer of the Asia Pacific Signal and Information Processing Association (APSIPA) in 2018. He is interested in developing and applying signal processing and machine learning approaches for the manipulation of acoustic waves. He has published more than 80 research papers on the topics of active noise control, parametric array loudspeaker, and machine hearing. He is also an experienced bilingual lecturer on the topics of Signals and Systems, Acoustic Signal Processing, Intelligent Acoustic Systems, and Adaptive Filtering and Beamforming.
 
-Create content & metadata
+You can find my CV here: [Chuang Shi's Curriculum Vitae](https://faculty.uestc.edu.cn/shichuang/).
+
+[Email](mailto:shichuang@uestc.edu.cn)/[Github](https://samshichuang.github.io/)
+
+关于我
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+史创副教授的本、硕、博学历分别在北京交大、清华大学、新加坡南洋理工大学取得，有近9年海外求学和工作经历，从事有源噪声控制、参量阵、机器听觉等声信号分析与处理研究，累计发表学术论文80余篇。曾担任SCI期刊《IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences》副主编，获得亚太信号与信息处理协会(APSIPA)杰出讲座人称号、美国声学学会(ASA)最佳青年演讲人奖，两次指导硕士研究生获得日本电子信息通信工程师协会(IEICE)颁发的优秀学生论文奖。目前担任亚太信号与信息处理协会(APSIPA)语音语言音频技术委员会委员，中国电子学会物联网青年专技组委员，CCF语音对话与听觉专业组委员。以负责人身份主持国家自然科学基金民航联合研究基金项目、青年科学基金项目、科技委前沿探索项目、四川省科技厅应用基础项目、重点实验室基金项目等纵向课题以及多个横向课题。
+
+Research Interest
+------
+1. 应用声学 Engineering Acoustics
+1. 信号处理 Signal Processing
+1. 机器学习 Machine Learning
+1. 定向声发射 Audio Beam / Directional Sound
+1. 有源噪声控制 Active Noise Control / Sound Field Control
+1. 声场景识别 Acoustic Scene Classification
+1. 空间音效 Spatial Audio / 3D Sound/ Auralization
+1. 虚拟低音 Virtual Bass / Audio Bandwidth Extension
 
 **Markdown generator**
 
