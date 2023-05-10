@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Chuang Shi's Personal Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Dr. Chuang Shi received his Bachelor's degree in Computer and Information Technology from Beijing Jiaotong University, Beijing, China in 2005, Master's degree in Precision Instrument from Tsinghua University, Beijing, China in 2008 and Ph.D. degree in Electrical and Electronic Engineering from Nanyang Technological University, Singapore in 2013. He was a Postdoctoral Researcher at Nanyang Technological University, Singapore, University of Electro-Communications, Tokyo, Japan and Kansai University, Osaka, Japan. He is currently an Associate Professor at the University of Electronic Science and Technology of China, Chengdu, China. He served as an associate editor for the IEICE Transactions on Fundamentals of Electronics Communications and Computer Sciences from 2017 to 2021 and was a distinguished lecturer of the Asia Pacific Signal and Information Processing Association (APSIPA) in 2018. He is interested in developing and applying signal processing and machine learning approaches for the manipulation of acoustic waves. He has published more than 80 research papers on the topics of active noise control, parametric array loudspeaker, and machine hearing. He is also an experienced bilingual lecturer on the topics of Signals and Systems, Acoustic Signal Processing, Intelligent Acoustic Systems, and Adaptive Filtering and Beamforming.
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
