@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Chuang Shi / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Chuang Shi"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Chuang Shi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "“I am not an adventurer by choice but by fate.” – Vincent van Gogh"
   location         : "Chengdu, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=lef_xSwAAAAJ"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/shi-chuang-2"
+  researchgate     : "https://www.researchgate.net/profile/chuang-shi-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "https://github.com/SoundControlLab"
   google_plus      :
   keybase          :
   instagram        :
