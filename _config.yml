@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Chuang Shi / Personal Homepage"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Chuang Shi"
 description              : &description "personal description"
