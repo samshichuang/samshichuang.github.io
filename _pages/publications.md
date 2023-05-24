@@ -5,12 +5,45 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Journal Papers
+---
+1.	**C. Shi**, M. Huang, C. Liu, and H. Li, "Active noise control with selective perceptual equalization to shape the residual sound," *Applied Acoustics*, vol. 208, no. 109376, pp. 1-11, 2023.
+1.	H. Guang, Y. Tang, Z. Long, R. Lin, S. Liang, F. Zhu, T. Zhong, Y. Zhang, Y. Fan, Z. Wang, **C. Shi**, W. Ma, S. Sun, M. Chen, Lili Xing, Y. Zhang, Y. Zhan, and X. Xue, "Cellphone remote intelligent neuroregulation with self-powered wireless brain probe," *Nano Energy*, vol. 106, no. 108105, pp. 1-13, 2023.
+1.	**C. Shi**, F. Du, and Q. Wu, "A digital twin architecture for wireless networked adaptive active noise control," *IEEE/ACM Transactions on Audio, Speech, and Language Processing*, vol. 30, pp. 2768-2777, 2022.
+1.	H. Wen, Z. Liu, Q. Luo, **C. Shi**, P. Xiao, "Designing enhanced multi-dimensional constellations for code-domain NOMA," *IEEE Wireless Communications Letters*, vol. 11, no. 10, pp. 2130-2134, 2022.
+1.	**C. Shi**, J. Liang, Y. Liu, and H. Yang, "Fast non-uniform searching strategy for ambient phase estimation in stereo recordings with sparse primary components," *Applied Acoustics*, vol. 198, no. 108975, pp. 1-10, 2022.
+1.	**C. Shi**, Y. Wang, H. Xiao, and H. Li, "Extended convolution model for computing the far-field directivity of an amplitude-modulated parametric loudspeaker," *Journal of Physics D: Applied Physics*, vol. 55, no. 244002, pp. 1-10, 2022.
+1.	**C. Shi**, F. Du, C. Liu, and H. Li, "Differential error feedback active noise control with the auxiliary filter based mapping method," *IEEE Signal Processing Letters*, vol. 29, pp. 573-577, 2022.
+1.	**C. Shi**, Z. Jia, R. Xie, and H. Li, "An active noise control casing using the multi-channel feedforward control system and the relative path based virtual sensing method," *Mechanical Systems and Signal Processing*, vol. 144, no. 106878, pp. 1-17, 2021.
+1.	D. Shi, W. S. Gan, B. Lam, and **C. Shi**, "Two-gradient direction FXLMS: An adaptive active noise control algorithm with output constraint," *Mechanical Systems and Signal Processing*, vol. 116, pp. 651-667, 2019.
+1.	B. Lam, **C. Shi**, D. Shi, and W. S. Gan, "Active control of sound through full-sized open windows," *Building and Environment*, vol. 141, pp. 16-27, 2018.
+1.	S. Elliott, J. Cheer, B. Lam, **C. Shi**, and W. S. Gan, "A wavenumber approach to analysing the active control of plane waves with arrays of secondary sources," *Journal of Sound and Vibration*, vol. 419, pp. 405-419, 2018.
+1.	T. Murao, **C. Shi**, W. S. Gan, and M. Nishimura, "Mixed-error approach for multi-channel active noise control of open windows," *Applied Acoustics*, vol. 127, pp. 305-315, 2017.
+1.	Y. Hatano, **C. Shi**, and Y. Kajikawa, "Compensation for nonlinear distortion of the frequency modulation based parametric array loudspeaker," *IEEE/ACM Transactions on Audio, Speech, and Language Processing*, vol. 25, no. 8, pp. 1709-1717, 2017.
+1.	**C. Shi** and Y. Kajikawa, "Volterra model of the parametric array loudspeaker operating with ultrasonic frequencies," *Journal of the Acoustical Society of America*, vol. 140, no. 5, pp. 3643-3650, 2016. 
+1.	K. Tanaka, **C. Shi** and Y. Kajikawa, "Binaural active noise control system using parametric array loud- speakers," *Applied Acoustics*, vol. 116, pp. 170-176, 2017. 
+1.	**C. Shi** and Y. Kajikawa, "Effect of the ultrasonic emitter on the distortion performance of the parametric array loudspeaker," *Applied Acoustics*, vol. 112, pp. 108-115, 2016.
+1.	**C. Shi**, Y. Kajikawa, and W. S. Gan, "Generating dual beams from a single steerable parametric loudspeaker," *Applied Acoustics*, vol. 99, pp. 43-50, 2015.
+1.	**C. Shi** and Y. Kajikawa, "A convolution model for computing the far-field directivity of a parametric loudspeaker array," *Journal of the Acoustical Society of America*, vol. 137, no. 2, pp. 777-784, 2015.
+1.	**C. Shi**, H. Nomura, T. Kamakura, and W. S. Gan, "Spatial aliasing effects in a steerable parametric loudspeaker for stereophonic sound reproduction," *IEICE Transactions on Fundamentals of Electronics, Communications and Computer Science*, vol. E97-A, no. 9, pp.1859-1866, 2014.
+1.	**C. Shi** and W. S. Gan, "Analysis and calibration of system errors in steerable parametric loudspeakers," *Applied Acoustics*, vol. 73, no. 12, pp. 1263-1270, 2012.
+1.	**C. Shi** and W. S. Gan, "Product directivity models for parametric loudspeakers," *Journal of the Acoustical Society of America*, vol. 131, no. 3, pp. 1938-1945, 2012.
+1.	**C. Shi** and W. S. Gan, "Grating lobe elimination in steerable parametric loudspeaker," *IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control*, vol. 58, no. 2, pp. 437-450, 2011. 
 
-{% include base_path %}
+Overview Papers
+---
+1.	**C. Shi**, Y. Kajikawa, and W. S. Gan, "An overview of directivity control methods of the parametric array loudspeaker," *APSIPA Transactions on Signal and Information Processing*, vol. 3, no. E20, pp. 1-12, 2014.
+1.	**C. Shi** and W. S. Gan, "Development of a parametric loudspeaker: A novel directional sound generation technology," *IEEE Potentials*, vol. 29, no. 6, pp. 20-24, 2010.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Selected Conference Papers
+---
+1.	**C. Shi**, M. Huang, H. Jiang, and H. Li, "Integration of anomaly machine sound detection into active noise control to shape the residual sound," in *Proceedings of the 47th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Singapore, May 2022.
+1.	H. Zhu, **C. Shi**, and Y. Wang, "F0-estimation-based primary ambient extraction for stereo signals," in *Proceedings of the 2021 European Signal Processing Conference (EUSIPCO)*, Dublin, Ireland, August 2021.
+1.	**C. Shi**, R. Xie, N. Jiang, H. Li, and Y. Kajikawa, "Selective virtual sensing technique for multi-channel feedforward active noise control systems," in *Proceedings of the 44th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Brighton, UK, May 2019.
+1.	**C. Shi** and Y. Kajikawa, "A partial-update minimax algorithm for practical implementation of multi-channel feedforward active noise control," in *Proceedings of the 16th International Workshop on Acoustic Signal Enhancement (IWAENC)*, Tokyo, Japan, September 2018.
+1.	D. Shi, J. He, **C. Shi**, T. Murao, and W. S. Gan, "Multiple parallel branch with folding architecture for multichannel filtered-x least mean square algorithm," in *Proceedings of the 42nd IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, New Orleans, Louisiana, March 2017.
+1.	**C. Shi** and Y. Kajikawa, "Synthesis of Volterra filters for the parametric array loudspeaker," in *Proceedings of the 41st IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Shanghai, China, March 2016.
+1.	**C. Shi** and Y. Kajikawa, "Automatic gain control for parametric array loudspeakers," in *Proceedings of the 41st IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Shanghai, China, March 2016.
+1.	Y. Hatano, **C. Shi**, S. Kinoshita, and Y. Kajikawa, "A linearization system for parametric array loudspeakers using the parallel cascade Volterra filter," in *Proceedings of the 2015 European Signal Processing Conference (EUSIPCO)*, Nice, France, August 2015.
+1.	**C. Shi** and Y. Kajikawa, "Identification of the parametric array loudspeaker with a Volterra filter using the sparse NLMS algorithm," in *Proceedings of the 40th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Brisbane, Australia, April 2015.
+1.	**C. Shi**, H. Mu, and W. S. Gan, "A psychoacoustical preprocessing technique for virtual bass enhancement of the parametric loudspeaker," in *Proceedings of the 38th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Vancouver, Canada, May 2013.
