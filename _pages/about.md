@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Chuang Shi's Personal Homepage"
-excerpt: "Chuang Shi's Personal Homepage"
+#excerpt: "Chuang Shi's Personal Homepage"
 author_profile: true
 redirect_from: 
   - /about/
