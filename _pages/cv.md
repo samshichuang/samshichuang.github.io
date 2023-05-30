@@ -31,7 +31,8 @@ Membership
 
 Publications
 -----
-* [Google Scholar Citation](https://scholar.google.com/citations?user=lef_xSwAAAAJ)
+* [Full List in Google Scholar](https://scholar.google.com/citations?user=lef_xSwAAAAJ)
+* [Selected Publications](https://samshichuang.github.io/publications/)
   
 Invited Talks
 -----
