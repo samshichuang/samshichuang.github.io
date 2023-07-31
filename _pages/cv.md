@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 -----
-* Doctor of Philosophy, School of Electrical and Electronic Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/), 2012;
-* Master of Engineering, Department of Precision Instruments and Mechanology, [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm), 2008;
-* Bachelor of Engineering, Department of Computer Science and Technology, [Beijing Jiaotong University](http://en.njtu.edu.cn/), 2005.
+* Doctor of Philosophy, School of Electrical and Electronic Engineering, Nanyang Technological University, 2012;
+* Master of Engineering, Department of Precision Instruments and Mechanology, Tsinghua University, 2008;
+* Bachelor of Engineering, Department of Computer Science and Technology, Beijing Jiaotong University, 2005.
 
 Work experience
 -----
-* Lecturer in Active Noise and Vibration Control, Institute of Sound and Vibration Research, [University of Southampton](https://www.southampton.ac.uk/), 2023;
-* Associate Professor, School of Information and Communication Engineering, [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/), 2017;
+* Lecturer in Active Noise and Vibration Control, Institute of Sound and Vibration Research, University of Southampton, 2023;
+* Associate Professor, School of Information and Communication Engineering, University of Electronic Science and Technology of China, 2017;
 * Research Fellow, [Digital Signal Processing Laboratory](http://eeewebc.ntu.edu.sg/dsplab/ewsgan/research.html), Nanyang Technological University, 2016;
 * Postdoctoral Fellow, [Audio and Acoustic Signal Processing Laboratory](http://joho.densi.kansai-u.ac.jp/index-j.html), Kansai University, 2014;
 * Postdoctoral Researcher, [Kamakura’s Laboratory](http://www.sangaku.uec.ac.jp/opal-ring5/english/0101.html), University of Electro-Communications, 2013.
