@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 -----
-* Doctor of Philosophy, School of Electrical and Electronic Engineering, Nanyang Technological University, 2012;
-* Master of Engineering, Department of Precision Instruments and Mechanology, Tsinghua University, 2008;
-* Bachelor of Engineering, Department of Computer Science and Technology, Beijing Jiaotong University, 2005.
+* Doctor of Philosophy, School of Electrical and Electronic Engineering, Nanyang Technological University;
+* Master of Engineering, Department of Precision Instruments and Mechanology, Tsinghua University;
+* Bachelor of Engineering, Department of Computer Science and Technology, Beijing Jiaotong University.
 
 Work experience
 -----
-* Lecturer in Active Noise and Vibration Control, Institute of Sound and Vibration Research, University of Southampton, 2023;
-* Associate Professor, School of Information and Communication Engineering, University of Electronic Science and Technology of China, 2017;
-* Research Fellow, Digital Signal Processing Laboratory, Nanyang Technological University, 2016;
-* Postdoctoral Fellow, [Audio and Acoustic Signal Processing Laboratory](http://joho.densi.kansai-u.ac.jp/index-j.html), Kansai University, 2014;
-* Postdoctoral Researcher, Kamakura Laboratory, University of Electro-Communications, 2013.
+* Lecturer in Active Noise and Vibration Control, Institute of Sound and Vibration Research, University of Southampton;
+* Associate Professor, School of Information and Communication Engineering, University of Electronic Science and Technology of China;
+* Research Fellow, Digital Signal Processing Laboratory, Nanyang Technological University;
+* Postdoctoral Fellow, [Audio and Acoustic Signal Processing Laboratory](http://joho.densi.kansai-u.ac.jp/index-j.html), Kansai University;
+* Postdoctoral Researcher, Kamakura Laboratory, University of Electro-Communications.
 
 Membership
 -----
