@@ -30,7 +30,7 @@ Leadership
 * Full Member / Best Young Presenter of the Acoustical Society of America (ASA);
 * Associate Editor of "Acoustical Science and Technology";
 * Associate Editor of "IEICE Transactions on Fundamentals of Electronics, Communications and Computer Science";
-* Dragon Venture Scholar
+* Dragon Venture Scholar.
 
 Publications
 -----
