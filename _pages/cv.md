@@ -37,12 +37,12 @@ Service and leadership
 * Distinguished Lecturer of Asia Pacific Signal and Information Processing Association, 2018;
 * Organizing committee member of APSIPA Conferences, 2017 & 2021.
 
-  Publications
+Publications
 -----
 * [Full List in Google Scholar](https://scholar.google.com/citations?user=lef_xSwAAAAJ)
 * [Selected Publications](https://samshichuang.github.io/publications/)
   
-Projects
+Projects (Noise Control)
 -----
 *	Principal Investigator of "Intelligent sensing and control methods in the active headrest", National Science Foundation and Civil Aviation Administration, China;
 *	Principal Investigator of "Sound field control technology under variable boundary conditions", Science and Technology Commission, China;
@@ -52,11 +52,15 @@ Projects
 *	Researcher Co-lead of "Formation of silent spots under loud acoustic noise environments", JSPS Grants-in-Aid for Scientific Research, Japan;
 *	Researcher Co-lead of "Development of active noise control for factory noise", Meiko Industrial Co. Ltd., Japan;
 
+Projects (Noise Monitoring)
+-----
 *	Principal Investigator of "Noise collection and analysis in ultra-high voltage converter station", Electric Power Research Institute of State Grid, China; 
 *	Principal Investigator of "Drone detection based on radio monitoring", SkyDefence Technology Co. Ltd., China;
 *	Principal Investigator of "Direction estimation of array antenna’s main beam based on sampling in sparse space", Science and Technology on Electronic Information Control Laboratory, China;
 * Core Member of "Augmenting urban soundscapes (AUS): Design tools, noise mitigation system, and evaluation of the urban sound environment", Ministry of National Development, Singapore;
 
+Projects (Directional Sound)
+-----
 *	Principal Investigator of "Beamforming algorithms of wideband steerable parametric arrays", National Science Foundation, China;
 *	Principal Investigator of "Research on the length-limited parametric array and its application in audio spotlight", Sichuan Science and Technology Program, China;
 *	Co-investigator of "Improving auditory experiences for hearing impaired listeners using unique combination of conventional and parametric loudspeakers", Mitsui Sumitomo Insurance Welfare Foundation, Singapore;
