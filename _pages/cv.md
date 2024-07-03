@@ -19,9 +19,9 @@ Work experience
 -----
 * Lecturer in Active Noise and Vibration Control, Institute of Sound and Vibration Research, University of Southampton, 2023;
 * Associate Professor, School of Information and Communication Engineering, University of Electronic Science and Technology of China, 2017;
-* Research Fellow, [Digital Signal Processing Laboratory](http://eeewebc.ntu.edu.sg/dsplab/ewsgan/research.html), Nanyang Technological University, 2016;
+* Research Fellow, [Digital Signal Processing Laboratory], Nanyang Technological University, 2016;
 * Postdoctoral Fellow, [Audio and Acoustic Signal Processing Laboratory](http://joho.densi.kansai-u.ac.jp/index-j.html), Kansai University, 2014;
-* Postdoctoral Researcher, [Kamakura’s Laboratory](http://www.sangaku.uec.ac.jp/opal-ring5/english/0101.html), University of Electro-Communications, 2013.
+* Postdoctoral Researcher, [Kamakura’s Laboratory], University of Electro-Communications, 2013.
 
 Membership
 -----
