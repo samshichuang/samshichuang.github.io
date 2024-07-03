@@ -23,19 +23,14 @@ Work experience
 * Postdoctoral Fellow, [Audio and Acoustic Signal Processing Laboratory](http://joho.densi.kansai-u.ac.jp/index-j.html), Kansai University;
 * Postdoctoral Researcher, Kamakura Laboratory, University of Electro-Communications.
 
-Membership
+Leadership
 -----
-* Senior Member of the Institute of Electrical and Electronics Engineers (IEEE);
-* Full Member of the Acoustical Society of America (ASA);
-* Life Member of the Asia Pacific Signal and Information Processing Association (APSIPA);
-* Member of the Institute of Electronics, Information and Communication Engineers (IEICE).
-
-Service and leadership
------
-* Associate Editor of "Acoustical Science and Technology", 2022-2025;
-* Associate Editor of "IEICE Transactions on Fundamentals of Electronics, Communications and Computer Science", 2017-2021;
-* Distinguished Lecturer of Asia Pacific Signal and Information Processing Association, 2018;
-* Organizing committee member of APSIPA Conferences, 2017 & 2021.
+* Life Member / Distinguished Lecturer of the Asia Pacific Signal and Information Processing Association (APSIPA);
+* Senior Member / Travel Grant Award Winner of the Institute of Electrical and Electronics Engineers (IEEE);
+* Full Member / Best Young Presenter of the Acoustical Society of America (ASA);
+* Associate Editor of "Acoustical Science and Technology";
+* Associate Editor of "IEICE Transactions on Fundamentals of Electronics, Communications and Computer Science";
+* Dragon Venture Scholar
 
 Publications
 -----
