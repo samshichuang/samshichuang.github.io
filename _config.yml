@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Chuang Shi"
   avatar           : "profile.png"
-  bio              : "“I am not an adventurer by choice but by fate.” – Vincent van Gogh"
-  location         : "Southampton, United Kingdom"
+  bio              : "Founder of Renyi Design and Consultants"
+  location         : "Singapore, Southampton, & Chengdu"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=lef_xSwAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=lef_xSwAAAAJ"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/chuang-shi-2"
+  researchgate     : #"https://www.researchgate.net/profile/chuang-shi-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-1517-2775"
+  orcid            : #"https://orcid.org/0000-0002-1517-2775"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
