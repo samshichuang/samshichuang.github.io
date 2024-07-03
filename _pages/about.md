@@ -12,6 +12,8 @@ About Me
 ------
 I am a Lecturer in Active Noise and Vibration Control at the Institute of Sound and Vibration Research (ISVR), University of Southampton, UK.
 
+I am also the founder of Renyi Design and Consultants, Singapore, and the founder of Sound Control Laboratory, Chengdu.
+
 My research interests are in the development and application of signal processing and machine learning approaches for the manipulation of sound waves. More specifically, I have been researching in the fields of **active noise control** and **parametric acoustic array**. These two topics can be brought together under the broader human-centered target to create a favorable sound environment. Both the studies of active noise control and parametric acoustic array involve series of ingenious designs of acoustics, circuits, algorithms, systems and prototypes. 
 
 As such, my research vision is to make cutting-edge technology easy to understand and ready to apply.
