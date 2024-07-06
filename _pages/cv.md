@@ -54,7 +54,7 @@ Projects (Noise Monitoring)
 *	Principal Investigator of "Direction estimation of array antenna’s main beam based on sampling in sparse space", Science and Technology on Electronic Information Control Laboratory, China;
 * Core Member of "Augmenting urban soundscapes (AUS): Design tools, noise mitigation system, and evaluation of the urban sound environment", Ministry of National Development, Singapore;
 
-Projects (Directional Sound)
+Projects (Spatial Audio)
 -----
 *	Principal Investigator of "Beamforming algorithms of wideband steerable parametric arrays", National Science Foundation, China;
 *	Principal Investigator of "Research on the length-limited parametric array and its application in audio spotlight", Sichuan Science and Technology Program, China;
