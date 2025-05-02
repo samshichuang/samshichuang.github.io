@@ -22,10 +22,8 @@ layout: compress
         <li>
             <span>
                 <i>
-                    <time datetime="2025-05-01" pubdate="">
-                        {{ post.date | date: "%b %-d, %Y" }}
-                    </time>
-                </i>
+                    {{ post.date | date: "%b %-d, %Y" }}
+                </i>                
             </span>
             <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </li>
