@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 主页
+title: 首页
 ---
 
 # 建设中
