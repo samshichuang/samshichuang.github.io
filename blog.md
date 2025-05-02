@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Blog
+title: 博客
 #description: Here be writings
 permalink: /blog
 ---
