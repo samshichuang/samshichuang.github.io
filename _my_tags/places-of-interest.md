@@ -1,4 +1,4 @@
 ---
 slug: places-of-interest
-name: 名胜古迹
+name: 周游列国
 ---
