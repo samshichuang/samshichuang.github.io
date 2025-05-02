@@ -12,8 +12,7 @@ layout: compress
 
     {% if site.tags[page.slug] %}
     <p>
-        <b>#{{ page.slug }}：</b><br>
-        <small><a href="{{ site.baseurl }}{{ site.Blog }}">返回至博文列表</a></small>
+        <b>#{{ page.slug }}：</b>
     </p>
 
     <ul class="blog-posts">
@@ -48,7 +47,7 @@ layout: compress
 
 </main>
 
-{% include footer.html %}
+{% include footer-post.html %}
 
 </body>
 
