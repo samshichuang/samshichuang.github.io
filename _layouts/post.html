@@ -20,7 +20,7 @@ layout: compress
         {% assign tag_slug = tag | first %}
         {% assign no_of_posts = tag | last | size %}
 
-        <a href="{{ site.baseurl }}/tagged/{{ tag_slug }}" title="查看#{{ tag_slug }}">#{{ tag_slug}}</a>
+        <a href="{{ site.baseurl }}/tagged/{{ tag_slug }}" title="查看#{{ tag_slug }}">#{{ tag_slug }}</a>
         {% endfor %}
     </small>
     
