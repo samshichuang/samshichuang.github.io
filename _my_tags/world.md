@@ -1,4 +1,4 @@
 ---
 slug: world
-name: 周远列国
+name: 周游列国
 ---
