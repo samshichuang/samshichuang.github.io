@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: 博客
-#description: Here be writings
+description: 随笔
 permalink: /blog
 ---
 
