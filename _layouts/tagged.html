@@ -13,8 +13,6 @@ layout: compress
     {% if site.tags[page.slug] %}
     <p>
         <b>#{{ page.slug }}：</b>
-        <br>
-        <small><a href="{{ site.baseurl }}/blog">查看全部标签</a></small>
     </p>
 
     <ul class="blog-posts">
@@ -42,6 +40,10 @@ layout: compress
         There are no posts in {{ page.slug }}.
     </p>
     {% endif %}
+
+    <br>
+    <a href="{{ site.baseurl }}/blog">查看全部专栏</a>
+    <br>
 
 </main>
 
