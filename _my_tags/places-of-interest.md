@@ -1,4 +1,4 @@
 ---
 slug: places-of-interest
-name: 名胜
+name: 名胜古迹
 ---
