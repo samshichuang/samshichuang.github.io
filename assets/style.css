@@ -1,14 +1,11 @@
-
-      
-      
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 :root {
     --width: 900px;
-    --font-main: 'Fira Code', monospace;
-    --font-secondary: 'Fira Code', monospace;
+    --font-main: 'Noto Sans Simplified Chinese', monospace;
+    --font-secondary: 'Noto Sans Simplified Chinese', monospace;
     --font-scale: .95em;
-    --background-color: #dcdcdc;
+    --background-color: ##f3f3f3; /* Milk */
     --heading-color: #2C1E15; /* Darker roast coffee */
     --text-color: #1F1408; /* Darker espresso */
     --link-color: #7C4011; /* Darker caramel */
