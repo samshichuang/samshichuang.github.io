@@ -1,8 +1,8 @@
 ###########
 # site.title
 
-title: XXX小站
-description: 建设中
+title: Sam先生的小站
+description: 随便写写
 baseurl: "https://samshichuang.github.io" # the subpath of your site, e.g. /blog/
 # url: "https://samshichuang.github.io" # the base hostname & protocol for your site
 # host: 0.0.0.0
