@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "left-or-right"
+title:  "向左走，向右走"
 date:   2024-09-25
 tags: [因信称义]
 ---
