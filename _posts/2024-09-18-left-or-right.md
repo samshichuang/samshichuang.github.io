@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "向左走，向右走"
-date:   2024-09-25
+date:   2024-09-18
 tags: [因信称义]
 ---
 
