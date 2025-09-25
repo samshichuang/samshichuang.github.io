@@ -15,4 +15,4 @@ title: 首页
 
 ---
 
-最近更新 [9/25/2025 向左走，向右走](https://samshichuang.github.io/blog/20250925-left-or-right)。
+最近更新 [9/25/2025 向左走，向右走](https://samshichuang.github.io/blog/2025-09-25-left-or-right)。
