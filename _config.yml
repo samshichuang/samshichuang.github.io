@@ -59,9 +59,11 @@ Blog: /blog
 
 # Add general links to site pages here
 links:
-  # Resume: /assets/resume.pdf
-  
+  # Resume: /assets/resume.pdf  
 
 # Add links for more focus here
 special_links:
   # "Search": https://google.com
+
+#Google Analytics
+google_analytics: G-X0T1Y7N3M5
