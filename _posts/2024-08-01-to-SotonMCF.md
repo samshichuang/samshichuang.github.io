@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "写在离开SotonMCF的日子"
+title:  "写在离开的日子"
 date: 2024-08-01
 tags: [因信称义]
 ---
