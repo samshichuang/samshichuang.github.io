@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 title: 关于
 description: 关于
 permalink: /about
