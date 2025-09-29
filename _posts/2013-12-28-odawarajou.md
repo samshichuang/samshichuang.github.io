@@ -7,38 +7,38 @@ tags: [百大名城]
 
 从新宿站出发，可以乘坐小田急电铁小田原线或者湘南新宿线到达小田原站。两条路线都需要大约一小时三十分钟到达小田原站。在不使用青春十八旅游通票或者关东地区通票时，小田急电铁是首选出行方式。一方面是因为小田急电铁票价比较便宜，另一方面是考虑到新宿站不是湘南新宿线的始发站。
 
-> <img src="https://samshichuang.github.io/assets/oshiro/023/odawarajou-001.jpg">
+> <img src="{{ site.baseurl }}/assets/oshiro/023/odawarajou-001.jpg">
 
 小田原城是神奈川县唯一入选百大名城的城迹。神奈川县的范围与日本令制国相模国相近。拥有相模之狮美誉的北条氏康就出生在小田原城。小田原城内现有一座复合式复兴天守。复合式天守是指除天守阁本体外还有拥有付橹和橹门。天守的发展顺序是从独立式天守，到复合式天守，再到连接式天守，到最后的连立式天守。
 
-> <img src="https://samshichuang.github.io/assets/oshiro/023/odawarajou-002.jpg">
+> <img src="{{ site.baseurl }}/assets/oshiro/023/odawarajou-002.jpg">
 
 现在日本各地的城迹中的天守按照考古价值可以分为现存天守，木造复元天守，外观复元天守，复兴天守，模拟天守。复兴天守有别于复元天守之处在于复兴天守的外形并没有完全根据史实来建设。而模拟天守意味着没有史料证实该城迹曾经拥有天守。登上小田原城天守，可以眺望四周。其西南方向就是传说中的石垣山一夜城，其东方就是小田原车站。
 
-> <img src="https://samshichuang.github.io/assets/oshiro/023/odawarajou-003.jpg">
+> <img src="{{ site.baseurl }}/assets/oshiro/023/odawarajou-003.jpg">
 
 常盘木门是本丸内的一座复元橹门，也是一个内枡形虎口的部分。常盘木桥连接着本丸和二之丸。常盘木桥下是已经被掩埋的本丸堀。
 
-> <img src="https://samshichuang.github.io/assets/oshiro/023/odawarajou-004.jpg">
+> <img src="{{ site.baseurl }}/assets/oshiro/023/odawarajou-004.jpg">
 
 小田原城在历史上是一座名副其实的坚城。北条家族统治下的小田原城曾经经历了上杉谦信和武田信玄的轮番进攻。当今川义元在桶狭间被织田信长以奇袭战讨死之后，北条氏康开始觊觎今川氏的骏河国。上杉谦信受命于养父上杉宪政，联合关东大名开始进攻北条氏康。上杉谦信领衔的联军势如破竹一路攻到小田原城下。北条氏康一方面联络武田信玄牵制关东大名，另一方面开始积极准备笼城。最终，越后之龙在相模之狮面前无功而返。
 
-> <img src="https://samshichuang.github.io/assets/oshiro/023/odawarajou-005.jpg">
+> <img src="{{ site.baseurl }}/assets/oshiro/023/odawarajou-005.jpg">
 
 二之丸内同样有一座复元橹门，因表面覆铜被称为铜门。铜门与内仕切门和周围的土塀也组成了一个枡形虎口。
 
-> <img src="https://samshichuang.github.io/assets/oshiro/023/odawarajou-006.jpg">
+> <img src="{{ site.baseurl }}/assets/oshiro/023/odawarajou-006.jpg">
 
 北条氏康与上杉谦信达成了和解，并结成了相越同盟。与此同时，武田信玄试图密谋与德川家康平分今川氏的骏河国，却遭到了德川家康的背弃。于是，武田氏被德川氏，北条氏和上杉氏三家围攻。武田信玄展示了出众的谋略，煽动上杉家臣叛乱牵制住了上杉军，同时猛攻伊豆国和相模国。武田大军一度包围了小田原城。面对久攻不下的小田原城，甲斐之虎同样选择了放弃。北条氏政率军追击了撤退的武田军，三弟北条氏邦也从秩父发兵截击。北条军与武田军在三增峠展开了日本战国历史上最大规模的山岳战。诡异的是，三增峠之战的战果不明，至今人们对得胜的一方尚存争论。无论如何，小田原城获得了天下第一坚城的美誉。
 
-> <img src="https://samshichuang.github.io/assets/oshiro/023/odawarajou-007.jpg">
+> <img src="{{ site.baseurl }}/assets/oshiro/023/odawarajou-007.jpg">
 
 二之丸东南隅橹是小田原城唯一现存的复兴橹，也被称为平橹。平橹的身后有一组桥，名为学桥。
 
-> <img src="https://samshichuang.github.io/assets/oshiro/023/odawarajou-008.jpg">
+> <img src="{{ site.baseurl }}/assets/oshiro/023/odawarajou-008.jpg">
 
 北条氏政也许并没有父亲北条氏康一样出色。过分的依靠小田原城的坚固，北条氏政的傲慢葬送了北条家族。不断挑衅丰臣政权的权威，并且招惹了老谋深算的德川家康。名胡桃城成为了小田原合战的导火线。小田原城的支城山中城和八王子城均被一一攻克。众叛亲离的北条氏政在被围困长达三个月之后开城投降。从此，北条氏的关东领地纳入德川家康之手。
 
-> <img src="https://samshichuang.github.io/assets/oshiro/023/odawarajou-009.jpg">
+> <img src="{{ site.baseurl }}/assets/oshiro/023/odawarajou-009.jpg">
 
 与游客稀少的山中城相比，小田原城就是典型的旅游景观了。小田原城毗邻小田原站，两者只相隔约八百米。小田原站是东海道新干线、东海道本线，湘南新宿线、小田急小田原线，和箱根登山铁道的大型枢纽车站。这里是前往东京近郊旅游大热点箱根的必经之地。在游览箱根之余，许多游客都会在小田原城驻足片刻。
