@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "日本100名城"
+date: 2015-09-29
+tags: [百大名城]
+---
+
+很多年以前，我曾经到访过日本100名城，并将游记保存在了新浪博客。随着新浪博客的没落，我终于下定决心将博文转移到这里。
+
+{% include image-gallery.html folder="/oshiro" %}
