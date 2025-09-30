@@ -9,9 +9,9 @@ title: 首页
 
 本站将不定期更新以下内容，敬请关注。
 
-- 我是谁？<a href="{{ site.baseurl }}/tagged/{{ bible }}" title="#{{ 因信称义 }}">#{{ 因信称义 }}</a>
+- 我是谁？<a href="{{ site.baseurl }}/tagged/因信称义" title="#{{ 因信称义 }}">#{{ 因信称义 }}</a>
 - 我从哪里来？
-- 我要到哪里去？<a href="{{ site.baseurl }}/tagged/{{ oshiro }}" title="#{{ 百大名城 }}">#{{ 百大名城 }}</a>
+- 我要到哪里去？<a href="{{ site.baseurl }}/tagged/百大名城" title="#{{ 百大名城 }}">#{{ 百大名城 }}</a>
 
 ---
 
