@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "> <img src="{{ site.baseurl }}/assets/oshiro/011/nihonmatsujou-001.jpg">"
+title:  "第42戳～日本100名城之二本松城～东北地区6/10"
 date: 2014-03-16
 tags: [百大名城]
 ---
