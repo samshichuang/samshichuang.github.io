@@ -19,7 +19,7 @@ tags: [百大名城]
 
 站在御主殿迹内俯瞰曳桥。随便一提的是，在右侧的树阴下，城山川上有一个小瀑布，名为御主殿之滝。
 
-> <img src="{{ site.baseurl }}/assets/oshiro/022/hachiojijou-04.jpg">
+> <img src="{{ site.baseurl }}/assets/oshiro/022/hachiojijou-004.jpg">
 
 曳桥位于御主殿一侧设有防御功能的虎口。沿途的石垣上不时出现“蛇出没”的提示，大意是说在石垣的缝隙中有蛇窝，并且有游客被咬伤的情况发生。
 
