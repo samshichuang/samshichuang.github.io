@@ -9,10 +9,10 @@ title: 首页
 
 本站将不定期更新以下内容，敬请关注。
 
-- 我是谁？<a href="{{ site.baseurl }}/tagged/因信称义" title="#因信称义">#因信称义</a>
-- 我从哪里来？
-- 我要到哪里去？<a href="{{ site.baseurl }}/tagged/百大名城" title="#百大名城">#百大名城</a>
+- <a href="{{ site.baseurl }}/tagged/因信称义" title="#因信称义">#因信称义</a>
+- <a href="{{ site.baseurl }}/tagged/百大名城" title="#百大名城">#百大名城</a>
+- #未完待续
 
 ---
 
-最近更新 [9/25/2025 向左走，向右走](https://samshichuang.github.io/blog/left-or-right)。
+最近更新 [6/29/2026 宇宙没有真正的巧合](https://samshichuang.github.io/blog/no-coincidence)。
